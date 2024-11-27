@@ -3312,13 +3312,13 @@ body{
 .contact-us .form .btn {
 	display: inline-block;
 	margin-right: 10px;
-	color: #fff;
+	color: #ffffff;
 	line-height: 20px;
 	width:100%;
 }
 .contact-us .form .btn:hover{
 	background:#1A76D1;
-	color:#fff;
+	color:#ffffff;
 }
 .contact-us .contact-us-form .checkbox {
 	text-align: left;
