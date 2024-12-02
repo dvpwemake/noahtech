@@ -4167,6 +4167,32 @@ body{
 	display:inline-block;
 	margin-left:4px;
 }
+.table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        .table .th .td {
+            border: 1px solid #ABB2B9;
+        }
+        .th .td {
+            padding: 12px;
+            text-align: left;
+        }
+        .th {
+            background-color: #2E86C1;
+            color: white;
+        }
+        .sup {
+            font-size: 0.8em;
+        }
+        .footnote {
+            margin-top: 20px;
+            border-top: 1px solid #ABB2B9;
+        }
+        .footnote p {
+            margin: 5px 0;
+        }
 /*=========================
 	End Footer CSS
 ===========================*/
